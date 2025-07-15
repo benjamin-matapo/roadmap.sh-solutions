@@ -4,11 +4,19 @@ This repository contains my personal solutions to challenges and projects from [
 
 ---
 
+## 🌐 Live Project Portfolio
+
+You can now browse all completed projects from one place using the new portfolio homepage:
+
+🔗 [View All Projects](https://benjamin-matapo.github.io/roadmap.sh-solutions/)
+
+---
+
 ## 📘 Projects
 
 ### 1️⃣ Single Page CV  
 🔗 [Live Demo](https://benjamin-matapo.github.io/roadmap.sh-solutions/1-single-page-cv/)  
-📁 [Source Code](./1-single-page-cv/)
+📁 [Source Code](./docs/1-single-page-cv/)
 
 A minimalist, responsive online CV built with plain HTML and CSS. Inspired by the [Single Page CV challenge](https://roadmap.sh/projects/single-page-cv), this project demonstrates clean layout structure, semantic markup, and polished styling.
 
